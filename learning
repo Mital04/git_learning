@@ -1,0 +1,8 @@
+git init
+git status
+git add<files>
+git commit -m "<commit>"
+git remote add origin <url>
+git remote set -url origin <url>
+git push -u origin <branch_name>
+
